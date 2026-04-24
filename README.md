@@ -70,7 +70,6 @@ This project addresses these challenges using data-driven techniques.
 * NumPy
 * Matplotlib & Seaborn
 * mlxtend
-
 ---
 
 ## 📈 Visualizations
