@@ -1,4 +1,6 @@
 🛒**Retail Customer Analytics & Market Basket Analysis**
+
+
 Retail analytics project using RFM &amp; Market Basket Analysis
 
 ## 📌 Project Overview
@@ -76,7 +78,7 @@ This project addresses these challenges using data-driven techniques.
 
 ### 📊 Sales Trend
 
-![Sales Trend](images/sales_trend.png)
+(images/sales_trend.png)
 
 ### 👥 Customer Segmentation
 
