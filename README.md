@@ -82,7 +82,6 @@ https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Mon
 
 
 ### 👥RFM Segmentation
-
 https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Customer_Segmentation.PNG
 
 ## Customer Segment Characteristics
