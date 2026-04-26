@@ -78,7 +78,8 @@ This project addresses these challenges using data-driven techniques.
 
 ### 📊 Sales Trend
 
-(images/sales_trend.png)
+https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Country_by_revenue.PNG
+
 
 ### 👥 Customer Segmentation
 
