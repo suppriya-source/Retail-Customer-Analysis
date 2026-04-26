@@ -78,20 +78,28 @@ This project addresses these challenges using data-driven techniques.
 
 ### 📊 Sales Trend
 
+https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Monthly_Revenu_Trend.PNG
+
+
+### 👥RFM Segmentation
+
+https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Customer_Segmentation.PNG
+
+## Customer Segment Characteristics
+
+
+
+### 📉 Top 10 Products (Bar Chart)
+
+
+
+### Cohort Retention Analysis
+https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Cohort_analysis(Customer_retention).PNG
+
+
+## Order Size Distribution (Histogram) 
 https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Country_by_revenue.PNG
 
-
-### 👥 Customer Segmentation
-
-![RFM Segments](images/rfm_segments.png)
-
-### 📉 Revenue Distribution (Pareto)
-
-![Pareto](images/pareto_chart.png)
-
-### 🧺 Market Basket Rules
-
-![MBA](images/mba_rules.png)
 
 ---
 
