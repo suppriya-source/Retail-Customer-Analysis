@@ -86,7 +86,7 @@ https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Mon
 https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Customer_Segmentation.PNG
 
 ## Customer Segment Characteristics
-
+https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/RFM_segment_characterristics.PNG
 
 
 ### 📉 Top 10 Products (Bar Chart)
