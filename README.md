@@ -37,40 +37,48 @@ This project addresses these challenges using data-driven techniques.
 
 2.Very high lift values (13–22) → these combinations are not random, they strongly occur together
 
+
 💡 Insights:
 Customers prefer variation buying (same product, different colors/styles)
+
 Items like:
-Teacups & saucers (Pink + Green)
-Lunch boxes (Spaceboy + Dolly Girl)
-Gardening pads (Cup of Tea + Keep Calm)
-→ are frequently bought together
+Teacups & saucers (Pink + Green),Lunch boxes (Spaceboy + Dolly Girl),Gardening pads (Cup of Tea + Keep Calm) are frequently bought together
 
 🚀 Strategy:
-Create combo bundles (e.g., “Buy 2 colors, get discount”)
-Show “Frequently Bought Together” recommendations
-Place similar variants side-by-side (online & in-store)
+1.Create combo bundles (e.g., “Buy 2 colors, get discount”)
+
+2.Show “Frequently Bought Together” recommendations
+
+3.Place similar variants side-by-side (online & in-store)
 
 
 📌 2. Top 10 Customers by Revenue
+
 🔍 What’s happening:
+
 1.A few customers contribute very high revenue (up to ~280K)
 2.Clear presence of high-value / repeat buyers
 
 💡 Insights:
+
 1.Business depends heavily on top customers (VIP segment)
 2.Revenue distribution is skewed (Pareto principle in action: 20% customers → major revenue)
 
+
 🚀 Strategy:
 1.Create VIP loyalty programs
+
 Offer:
-Early access to products
-Exclusive discounts
-Personalized recommendations
-Focus on retention > acquisition for these users
+1.Early access to products
+2.Exclusive discounts
+3.Personalized recommendations
+4.Focus on retention > acquisition for these users
 
 📌 3. Top 10 Products
+
 🔍 What’s happening:
 1.Top product: PAPER CRAFT, LITTLE BIRDIE (~168K revenue)
+
 Followed by:
 Cake stands
 Home décor items (lamps, jars, ornaments)
