@@ -30,8 +30,11 @@ This project addresses these challenges using data-driven techniques.
 
 ## 📊 Key Insights
 📌 1. Market Basket Analysis (Association Rules)
+
 🔍 What’s happening:
+
 1.Strong pairing between same products with different colorsExample: Red ↔ Green Alarm Clocks, Pink ↔ Red
+
 2.Very high lift values (13–22) → these combinations are not random, they strongly occur together
 
 💡 Insights:
