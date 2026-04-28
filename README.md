@@ -97,7 +97,7 @@ Some cohorts (like Dec 2010) show strong long-term retention
 
 
 
-📌5.Country by Revenue 
+📌5.Country by Revenue
 💰 United Kingdom Dominates Revenue
 The United Kingdom contributes the majority of total revenue (~7.3M), far exceeding all other countries combined, indicating heavy dependence on a single market.
 
