@@ -1,6 +1,3 @@
-Here’s your content **reframed into a clean, professional GitHub README format** (structured, polished, and recruiter-friendly):
-
----
 
 # 🛒 Retail Customer Analytics & Market Basket Analysis
 
