@@ -78,7 +78,7 @@ This project addresses these challenges using data-driven techniques.
 
 ### 📊 Sales Trend
 
-https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Monthly_Revenu_Trend.PNG
+https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Monthlytrends.jpg
 
 
 ### 👥RFM Segmentation
@@ -89,7 +89,7 @@ https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/RFM
 
 
 ### 📉 Top 10 Products (Bar Chart)
-
+https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Top_ten_Products%20.jpg
 
 
 ### Cohort Retention Analysis
@@ -99,6 +99,8 @@ https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Coh
 ## Order Size Distribution (Histogram) 
 https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/Country_by_revenue.PNG
 
+## Market Basket Analysis 
+https://github.com/suppriya-source/Retail-Customer-Analysis/blob/main/images/MBA.jpg
 
 ---
 
